@@ -103,6 +103,8 @@
  
 </div> 
 
+## My playlist 😎
+
 <div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vycug5giv2rqlbw5mf6sxecvei&cover_image=true&theme=default&show_offline=false&background_color=0a0505&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31vycug5giv2rqlbw5mf6sxecvei&redirect=true)
