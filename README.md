@@ -1,4 +1,4 @@
-### Hi there 👋🧑‍💻
+### Hola que tal? 👋🧑‍💻
 ![](https://res.cloudinary.com/dj8p0rdxn/image/upload/v1674954912/l3e5da9sgclqmtqxlur6.png)
 
 ## About me
@@ -8,4 +8,4 @@
 
 
 
-
+icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daniel-henríquez/) 
