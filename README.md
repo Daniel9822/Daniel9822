@@ -7,5 +7,4 @@
 - [🔭 Actualmente estoy trabajando en esta pagina.](https://andromedagames.netlify.app/)  
 
 
-
-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daniel-henríquez-858248247/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Daniel9822)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daniel-henríquez-858248247/)  
