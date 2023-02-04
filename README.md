@@ -1,6 +1,6 @@
 ### Hola que tal? 👋🧑‍💻
 ![](https://res.cloudinary.com/dj8p0rdxn/image/upload/v1674972759/baibfsdrqhthg44l2xsc.png)
-
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 ## About me
 👋 Hola! Mi nombre es Daniel y soy un desarrollador full stack 💻que se divierte construyendo aplicaciones web con el stack PERN. Tengo una pasión por crear proyectos que son intuitivos, atractivos y fáciles de usar 🎨. Mi objetivo es siempre entregar código limpio y mantenible 🛠️. Si tienes una idea interesante y quieres colaborar, ¡no dudes en ponerte en contacto conmigo! Estoy ansioso de ver lo que podemos crear juntos 🤝
 
@@ -9,6 +9,7 @@
 
 
  <h2 align="left" id="macropower-tech">💻 SKILLS</h2>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 > Tools, languages, and other things that I like to work with.
 
@@ -97,6 +98,7 @@
 </table>
 
 ## REDES
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
  
@@ -105,6 +107,7 @@
 </div> 
 
 ## My playlist 😎
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
