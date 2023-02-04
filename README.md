@@ -114,3 +114,11 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vycug5giv2rqlbw5mf6sxecvei&cover_image=true&theme=default&show_offline=false&background_color=0a0505&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31vycug5giv2rqlbw5mf6sxecvei&redirect=true)
 
  </div>
+ 
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel9822&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="dany" />
+ 
+<!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Daniel9822&label=Profile%20views&color=0e75b6&style=flat" alt="eseval" /> </p> -->
+
