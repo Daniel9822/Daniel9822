@@ -1,5 +1,6 @@
-### Hola que tal? 👋🧑‍💻
-![](https://res.cloudinary.com/dj8p0rdxn/image/upload/v1674972759/baibfsdrqhthg44l2xsc.png)
+<!-- ### Hola que tal? 👋🧑‍💻 -->
+<!-- ![](https://res.cloudinary.com/dj8p0rdxn/image/upload/v1674972759/baibfsdrqhthg44l2xsc.png) -->
+[![Header](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)]()
 <!-- <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture> -->
 ## About me
 👋 Hola! Mi nombre es Daniel y soy un desarrollador full stack 💻que se divierte construyendo aplicaciones web con el stack PERN. Tengo una pasión por crear proyectos que son intuitivos, atractivos y fáciles de usar 🎨. Mi objetivo es siempre entregar código limpio y mantenible 🛠️. Si tienes una idea interesante y quieres colaborar, ¡no dudes en ponerte en contacto conmigo! Estoy ansioso de ver lo que podemos crear juntos 🤝
